@@ -15,8 +15,6 @@
 
 - 📬 Reach me at: **qonita.ltfiaa@gmail.com**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/qonitalutfia)
-
 - 💬 I speak Bahasa Indonesia (native), conversational English, and basic German
 
 #
