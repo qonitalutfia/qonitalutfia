@@ -5,7 +5,9 @@
 🔍 Learning Automation Testing with Selenium, API testing with Postman, Katalon, Cypress and Appium
 
 🤝 Open to collaborate in Quality Assurance Automation / Manual 
+
 📫 Reach me at: qonita.ltfiaa@gmail.com  
+
 📎 LinkedIn: [linkedin.com/in/qonitalutfia](https://linkedin.com/in/qonitalutfia)
 
 ---
