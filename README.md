@@ -1,7 +1,7 @@
 <h1 align="center">Halo 🙋‍♀️, I'm Qonita Lutfia</h1>
 <h4 align="center">Automation Tester with a passion for delivering clean, reliable, and scalable test scripts</h4>
 
-<img align="right" alt="QA Testing" width="350" src="https://media.giphy.com/media/fvx95jkua0NYY/giphy.gif">
+<img align="right" alt="QA Testing" width="350" src="[https://media.giphy.com/media/fvx95jkua0NYY/giphy.gif](https://media.tenor.com/_oZAe8NmTTwAAAAM/ta.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qonitalutfia&label=Profile%20views&color=ff69b4&style=flat" alt="qonitalutfia" /> </p>
 
