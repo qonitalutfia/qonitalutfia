@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qonitalutfia&label=Profile%20views&color=ff69b4&style=flat" alt="qonitalutfia" /> </p>
 
 - 🧪 Specializing in **Automation Testing** using:
-  - Cypress (JavaScript)
+  - Cypress (Python)
   - Selenium WebDriver
   - Appium for mobile automation
   - Katalon Studio
