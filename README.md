@@ -28,34 +28,6 @@
 
 ##
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SNf5Pw1uV7GxPm_MUmbwg-mOCql2cWlsLw&s)" alt="selenium" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
-  </a>
-  <a href="https://appium.io" target="_blank" rel="noreferrer"> 
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/5/59/Appium.png](https://cdn.worldvectorlogo.com/logos/appium.svg)" alt="appium" width="40" height="40"/> 
-  </a>
-  <a href="https://www.katalon.com" target="_blank" rel="noreferrer"> 
-    <img src="[https://seeklogo.com/images/K/katalon-logo-572DD20374-seeklogo.com.png](https://upload.wikimedia.org/wikipedia/commons/0/00/Katalon-logo-png.png)" alt="katalon" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
-  </a>
-</p>
-
 ### 💬 Languages I Use
 - 🇮🇩 Bahasa Indonesia — Native  
 - 🇬🇧 English — Conversational  
